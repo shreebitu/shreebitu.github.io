@@ -1,7 +1,9 @@
-# 👋 I'm Shree Bitu            2026
+# 👋 I'm Shree Bitu           
 ---
 
-## 🌟 About Me
+## 🌟 About Me  Mail bituhuman@outlook.com  / insta - shree.bitu / mail- bituhuman@outlook.com
+
+
 
 My name is **Bitu Talukdar**, but you can call me **Shree Bitu**.
 I am 20 years old, and I am on a mission to become a great developer.
