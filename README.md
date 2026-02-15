@@ -1,7 +1,7 @@
 # 👋 I'm Shree Bitu           
 ---
 
-## 🌟 About Me  Mail bituhuman@outlook.com  / insta - shree.bitu / mail- bituhuman@outlook.com
+ insta - shree.bitu / mail- bituhuman@outlook.com
 
 
 
