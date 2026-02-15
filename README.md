@@ -36,18 +36,10 @@ I bought my own laptop (**Infinix Y1 Neo**) on EMI 💻🔥
 That moment changed everything.
 
 ---
-
-## 🚀 My Promise
-
-This time… I will not stop.
-I will not look back.
-I will not quit.
-
 Coding is not just a skill for me…
 It is my passion, my purpose, my world.
 
 ✨ I was born to code.
-✨ I will grow by coding.
 ✨ And I will build my life through coding.
 
 ---
@@ -61,27 +53,6 @@ It is my passion, my purpose, my world.
 🛠 Real projects & web development
 
 ---
-
-## 🎯 My Goals
-
-✅ Become a professional developer
-✅ Build useful websites and applications
-✅ Keep learning every single day
-✅ Inspire others who start from nothing
-✅ Turn my struggle into success
-
----
-
-## 💡 My Mindset
-
-💪 No resources → I will create them
-💪 No support → I will motivate myself
-💪 No shortcuts → Only hard work
-
-Dreams don’t work unless you do.
-
----
-
 ## ❤️ Why I Code
 
 Because coding gives me freedom.
@@ -94,11 +65,7 @@ Because coding makes me feel alive.
 
 GitHub: *You are already here 😄*
 
-More coming soon…
-
 ---
-
-## ⭐ Final Words
 
 If you are reading this… remember something:
 
