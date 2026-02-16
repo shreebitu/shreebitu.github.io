@@ -6,9 +6,8 @@
 
 
 My name is **Bitu Talukdar**, but you can call me **Shree Bitu**.
-I am 20 years old, and I am on a mission to become a great developer.
+I am 20 years old, and I want to be a developer. (Changed 16 Fab / 2026 Monday)
 
-My journey in programming is not easy…
 
 I first discovered coding around **2018**, when I was just 16–17 years old.
 My brother had a government laptop (**HP 245 AMD A6**), and that small machine opened a **whole new world** for me.
@@ -18,22 +17,19 @@ That was where I learned my first lines of **HTML and CSS**… and I fell in lov
 But life had different plans.
 
 In **2021**, the laptop display broke.
-My father works as a daily wage laborer, so buying a new laptop was very difficult.
+(Removing About My Fther), so buying a new laptop was very difficult.
 Slowly… my coding dream faded away.
 
-During COVID, I passed Class 10, but I lost interest in studies.
+During COVID, I passed Class 10 with 55% (SEBA), but I lost interest in studies.
 I completed Class 12 with 56% in Science, then joined B.Sc (Botany Major)…
 But my heart was never there.
 
-All I could think about was one thing:
 
-💭 *“When will I get a laptop again?”*
-
-Eventually, I left college and started a private job earning ₹8500/month.
+Eventually, I left college and started a private job earning Starting Selary ₹8500/month as a helper  . Then i got promote to spliceer (railtel)
 But even while working… my dream never died.
 
 And finally…
-I bought my own laptop (**Infinix Y1 Neo**) on EMI 💻🔥
+I bought my own laptop (**Infinix Y1 Neo**) on EMI (2026)💻🔥
 
 That moment changed everything.
 
