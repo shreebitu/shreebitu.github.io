@@ -6,7 +6,7 @@
 
 
 My name is **Bitu Talukdar**, but you can call me **Shree Bitu**.
-I am 20 years old, and I want to be a developer. (Changed 16 Fab / 2026 Monday)
+I am 20 years old, and I want to be a developer.
 
 
 I first discovered coding around **2018**, when I was just 16–17 years old.
@@ -17,7 +17,7 @@ That was where I learned my first lines of **HTML and CSS**… and I fell in lov
 But life had different plans.
 
 In **2021**, the laptop display broke.
-(Removing About My Fther), so buying a new laptop was very difficult.
+buying a new laptop was very difficult.
 Slowly… my coding dream faded away.
 
 During COVID, I passed Class 10 with 55% (SEBA), but I lost interest in studies.
@@ -29,7 +29,7 @@ Eventually, I left college and started a private job earning Starting Selary ₹
 But even while working… my dream never died.
 
 And finally…
-I bought my own laptop (**Infinix Y1 Neo**) on EMI (2026)💻🔥
+Now I bought my own laptop💻🔥
 
 That moment changed everything.
 
