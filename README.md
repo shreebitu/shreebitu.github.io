@@ -25,9 +25,7 @@ I completed Class 12 with 56% in Science, then joined B.Sc (Botany Major)…
 But my heart was never there.
 
 
-Eventually, I left college and started a private job earning Starting Selary ₹8500/month as a helper  . Then i got promote to spliceer (railtel)
-But even while working… my dream never died.
-
+Eventually, I left college and started a private job,
 And finally…
 Now I bought my own laptop💻🔥
 
