@@ -82,4 +82,4 @@ Let’s build something amazing together 🚀
 
 ---
 
- <div class= "footer-div> Made with 💌 passion by Shree Bitu </div>
+ <div class= "footer-div"> Made with 💌 passion by Shree Bitu </div>
