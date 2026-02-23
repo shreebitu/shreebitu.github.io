@@ -1,14 +1,3 @@
----
-
-### 📂 Navigation
-
-🏠 [Home](https://shreebitu.github.io/)  
-📂 [Projects](https://shreebitu.github.io/projects)  
-💻 [GitHub Profile](https://github.com/shreebitu)
-
----
----
-
 ## 🌟 Featured Projects
 
 ### 🧠 Assamese Translator App
