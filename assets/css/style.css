@@ -1,6 +1,6 @@
-/* site-header, .site-title, header {
+site-header, .site-title, header {
   display: none !important;
-} */
+}
 
 ---
 ---
@@ -38,6 +38,7 @@
 .custom-nav a:hover {
   color: orange;
 }
+
 
 
 
