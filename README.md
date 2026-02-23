@@ -2,7 +2,7 @@
 <div align="center" style="background:#e0e0e0; padding:12px;" class="custom-nav">
   <a href="https://shreebitu.github.io/">Home</a>
   <a href="https://github.com/shreebitu">Profile</a>
-  <a href="https://hreebitu.github.io/project">Project</a>
+  <a href="https://sreebitu.github.io/projects">Project</a>
 </div>
 
 <hr>
