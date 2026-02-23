@@ -6,9 +6,9 @@ site-header, .site-title, header {
 ---
 
 /* LEFT SIDEBAR HEADER HIDE */
-header {
+/* header {
   display: none;
-}
+} */
 
   h1 {
   text-transform: uppercase;
@@ -38,4 +38,5 @@ header {
 .custom-nav a:hover {
   color: orange;
 }
+
 
