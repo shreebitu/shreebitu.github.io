@@ -68,7 +68,7 @@ Because coding makes me feel alive.
 
 ## 📫 Connect With Me
 
-GitHub: *You are already here 😄*
+GitHub: You are already here 😄
 
 ---
 
@@ -82,4 +82,4 @@ Let’s build something amazing together 🚀
 
 ---
 
-⭐ *Made with passion by Shree Bitu*
+ <div class="footer-div> Made with 💌 passion by Shree Bitu </div>
