@@ -10,6 +10,10 @@ header {
   display: none;
 }
 
+  h1 {
+  text-transform: uppercase;
+}
+
 /* CONTENT FULL WIDTH */
 .wrapper {
   max-width: 900px;
@@ -34,3 +38,4 @@ header {
 .custom-nav a:hover {
   color: orange;
 }
+
