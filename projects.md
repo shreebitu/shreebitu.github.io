@@ -4,8 +4,6 @@
   <a href="https://github.com/shreebitu/shreebitu.github.io" style="color:white; margin:15px;">Repo</a>
 </div>
 
-## Projects
-
 ### 🧠 Assamese Translator App
 🔹 Assamese language translate karne wala web app  
 🔹 HTML + CSS + JS based  
@@ -40,10 +38,10 @@ I am continuously building new tools and apps 🚀
 Stay tuned 🙂
 
 ---
-
-<div align="center">
+<footer><div align="center">
 
 ⭐ Thanks for visiting my projects  
 Made with ❤️ by **Bitu Talukdar**
 
-</div>
+</div></footer>
+
