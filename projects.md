@@ -1,15 +1,12 @@
-<div align="center">
+---
 
-# 🚀 My Projects
+### 📂 Navigation
 
-[🏠 Home](https://shreebitu.github.io/)
-|
-[📂 Projects](projects.md)
-|
-[💻 GitHub Profile](https://github.com/shreebitu)
+🏠 [Home](https://shreebitu.github.io/)  
+📂 [Projects](https://shreebitu.github.io/projects)  
+💻 [GitHub Profile](https://github.com/shreebitu)
 
-</div>
-
+---
 ---
 
 ## 🌟 Featured Projects
