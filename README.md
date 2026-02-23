@@ -1,8 +1,8 @@
 
-<div align="center" style="background:#e0e0e0; padding:12px;">
-  <a href="https://shreebitu.github.io/" style="color:white; margin:15px;">Home</a>
-  <a href="https://github.com/shreebitu" style="color:white; margin:15px;">Profile</a>
-  <a href="https://github.com/shreebitu/shreebitu.github.io" style="color:white; margin:15px;">Repo</a>
+<div align="center" style="background:#e0e0e0; padding:12px;" class="custom-nav">
+  <a href="https://shreebitu.github.io/">Home</a>
+  <a href="https://github.com/shreebitu">Profile</a>
+  <a href="https://hreebitu.github.io/project">Project</a>
 </div>
 
 <hr>
