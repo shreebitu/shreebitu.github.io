@@ -1,3 +1,36 @@
 site-header, .site-title, header {
   display: none !important;
 }
+
+---
+---
+
+/* LEFT SIDEBAR HEADER HIDE */
+header {
+  display: none;
+}
+
+/* CONTENT FULL WIDTH */
+.wrapper {
+  max-width: 900px;
+  margin: auto;
+}
+
+/* CUSTOM NAVBAR STYLE */
+.custom-nav {
+  background: #111;
+  padding: 12px;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.custom-nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+.custom-nav a:hover {
+  color: orange;
+}
