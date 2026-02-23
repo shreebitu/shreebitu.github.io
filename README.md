@@ -1,3 +1,12 @@
+
+<div align="center" style="background:#111; padding:12px;">
+  <a href="https://shreebitu.github.io/" style="color:white; margin:15px;">Home</a>
+  <a href="https://github.com/shreebitu" style="color:white; margin:15px;">Profile</a>
+  <a href="https://github.com/shreebitu/shreebitu.github.io" style="color:white; margin:15px;">Repo</a>
+</div>
+
+<hr>
+
 # 👋 I'm Shree Bitu           
 ---
 
