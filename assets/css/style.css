@@ -45,32 +45,3 @@ body {
   padding: 40px 20px;
 }
 
-section {
-  line-height: 1.6;
-}
-
-h1, h2, h3 {
-  color: #222;
-}
-
-a {
-  color: #267cb9;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-responsive
-@media (max-width: 900px) {
-  .wrapper {
-    width: auto;
-    margin: 0 20px;
-  }
-}
-
-
-
-
-
