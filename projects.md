@@ -1,9 +1,3 @@
-<div align="center" style="background:#e0e0e0; padding:12px;">
-  <a href="https://shreebitu.github.io/" style="color:white; margin:15px;">Home</a>
-  <a href="https://github.com/shreebitu" style="color:white; margin:15px;">Profile</a>
-  <a href="https://github.com/shreebitu/shreebitu.github.io" style="color:white; margin:15px;">Repo</a>
-</div>
-
 ### 🧠 Assamese Translator App
 🔹 Assamese language translate karne wala web app  
 🔹 HTML + CSS + JS based  
