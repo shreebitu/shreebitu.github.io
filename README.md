@@ -9,7 +9,7 @@ My name is **Bitu Talukdar**, but you can call me **Shree Bitu**.
 I am 20 years old, and I want to be a developer.
 
 
-I first discovered coding around **2018**, when I was just 16–17 years old.
+I first discovered coding around **2018**, when I was just 13–14 years old.
 My brother had a government laptop (**HP 245 AMD A6**), and that small machine opened a **whole new world** for me.
 
 That was where I learned my first lines of **HTML and CSS**… and I fell in love with coding instantly ❤️
