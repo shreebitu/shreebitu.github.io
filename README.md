@@ -3,7 +3,7 @@
 
  insta - shree.bitu / mail- bituhuman@outlook.com
 
- EveryOne Is Taliking About Ai ,, but One day a time will come when I will take ai's this job.
+ EveryOne Is Taliking About Ai Replace Human's Job ,, but One day a time will come when I will take ai's this job.
 
 
 
