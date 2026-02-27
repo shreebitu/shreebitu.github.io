@@ -3,6 +3,8 @@
 
  insta - shree.bitu / mail- bituhuman@outlook.com
 
+ EveryOne Is Taliking About Ai ,, but One day a time will come when I will take ai's this job.
+
 
 
 My name is **Bitu Talukdar**, but you can call me **Shree Bitu**.
